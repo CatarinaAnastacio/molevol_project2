@@ -1,0 +1,25 @@
+
+KY542087.1    Balaenoptera_acutorostrata_Minke_whale
+KY542088.1    Eschrichtius_robustus_Gray_whale
+KF056914.1    Balaena_mysticetus_Bowhead_whale
+MN615763.1    Nomascus_gabriellae_Red_cheeked_gibbon
+AF244382.1    Chinchilla_lanigera_Chinchilla
+PV391318.1    Artibeus_lituratus_Fruit_bat
+JN034136.1    Homo_sapiens_Human
+AF273447.1    Pongo_abelii_Sumatran_Orangutan
+KX790793.1    Mus_musculus_Mouse
+OL659370.1    Equus_caballus_Horse
+KY542097.1    Sousa_chinensis_Dolphin
+KC576785.1    Rattus_norvegicus_Rat
+OR644943.1    Sapajus_nigritus_Capuchin
+OQ117430.1    Panthera_pardus_Leopard
+AB194817.1    Felis_catus_Cat
+MG490404.1    Panthera_leo_Lion
+EF987755.1    Mellivora_capensis_Honey_badger
+KP306773.1    Ailuropoda_melanoleuca_Panda
+MK201283.1    Elaphe_bimaculata_Snake
+ON683737.1    Coilia_nasus_Anchovy
+MW631065.1    Amphiprion_bicinctus_Anemonefish
+JQ996403.1    Hyponephele_dysdora_Butterfly
+KF265091.1    Synchiropus_picturatus_Dragonet
+ON081258.1    Passer_domesticus_Sparrow
